@@ -12,7 +12,7 @@ In order to send messages to Telegram from Blue Prism, the following steps must 
 4. Set the bot as administrator in your channel
 5. Obtain your channel Chat Id
 
-Obtaining your Chat Id can be tricky, but the following article was useful: https://programmingistheway.wordpress.com/2015/12/03/send-telegram-messages-from-c/
+Obtaining your Chat Id can be tricky, but the following articles were useful: https://programmingistheway.wordpress.com/2015/12/03/send-telegram-messages-from-c/ and https://medium.com/@xabaras/sending-a-message-to-a-telegram-channel-the-easy-way-eb0a0b32968
 
 If you completed the steps above, you can now send a message to your channel by issuing an HTTP GET request to the Telegram BOT API at the following URL:
 
@@ -49,3 +49,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * https://programmingistheway.wordpress.com/2015/12/03/send-telegram-messages-from-c/
+* https://medium.com/@xabaras/sending-a-message-to-a-telegram-channel-the-easy-way-eb0a0b32968
+* https://stackoverflow.com/questions/31271355/how-to-use-telegram-api-in-c-sharp-to-send-a-message
