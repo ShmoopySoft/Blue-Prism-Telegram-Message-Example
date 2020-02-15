@@ -2,6 +2,8 @@
 
 A Blue Prism Release Package containing an example Visual Business Object (VBO) and Process to demonstrate sending messages to a Telegram Channel using the Telegram BOT Api from Blue Prism.
 
+This repository is a companion to the LinkedIn article: https://www.linkedin.com/pulse/sending-messages-telegram-channel-using-blue-prism-christian-pacella
+
 ## Getting Started
 
 In order to send messages to Telegram from Blue Prism, the following steps must first be completed:
