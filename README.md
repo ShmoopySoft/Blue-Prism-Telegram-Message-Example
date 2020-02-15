@@ -4,6 +4,8 @@ A Blue Prism Release Package containing an example Visual Business Object (VBO) 
 
 This repository is a companion to the LinkedIn article: https://www.linkedin.com/pulse/sending-messages-telegram-channel-using-blue-prism-christian-pacella
 
+The Release Package was created with Blue Prism 6.4.
+
 ## Getting Started
 
 In order to send messages to Telegram from Blue Prism, the following steps must first be completed:
