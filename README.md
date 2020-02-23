@@ -33,11 +33,11 @@ If you are able to send a test message to your Telegram channel, you are ready t
 
 ### Installing
 
-Download the [Example Blue Prism Package](ShmoopySoftBluePrismTelegramExample.bprelease)
+Download the [Example Blue Prism Package](ShmoopySoftBluePrismTelegramMessageExample.bprelease)
 
 1. Launch Blue Prism
 2. Click File -> Import
-3. Select the 'ShmoopySoftTelegramExample.bprelease' Release Package
+3. Select the 'ShmoopySoftBluePrismTelegramMessageExample.bprelease' Release Package
 4. Follow the Blue Prism import wizard to install the package
 
 ### Running
